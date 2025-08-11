@@ -1,4 +1,4 @@
-from src.tablero import Tablero
+from tablero import Tablero
 
 class Tateti:
     def __init__(self, player1, player2):

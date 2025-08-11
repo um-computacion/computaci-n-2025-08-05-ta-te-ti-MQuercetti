@@ -1,5 +1,5 @@
-from src.tateti import Tateti
-from src.player import Player
+from tateti import Tateti
+from player import Player
 
 def mostrar_tablero(casillas):
     for i in range(3):
